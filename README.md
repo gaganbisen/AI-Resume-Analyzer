@@ -374,13 +374,18 @@ Graphs and analytics are displayed.
 
 ## 🏠 Home Page
 
-![Home Page](screenshot1.png)
+![Home Page](Screenshot1.png)
 
 ---
 
 ## 📄 Resume Analysis Dashboard
 
-![Resume Analysis](screenshot2.png)
+![Resume Analysis](Screenshot2.png)
+
+
+## About 
+
+![About](Screenshot3.png)
 
 # 📌 Important Commands
 
