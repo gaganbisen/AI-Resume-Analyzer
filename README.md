@@ -372,17 +372,15 @@ Graphs and analytics are displayed.
 
 # 📷 Screenshots
 
-Add screenshots here after running project.
+## 🏠 Home Page
 
-Example:
-
-```md
 ![Home Page](screenshot1.png)
 
-![Resume Analysis](screenshot2.png)
-```
-
 ---
+
+## 📄 Resume Analysis Dashboard
+
+![Resume Analysis](screenshot2.png)
 
 # 📌 Important Commands
 
